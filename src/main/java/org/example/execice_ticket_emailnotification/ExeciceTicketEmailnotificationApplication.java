@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ExeciceTicketEmailnotificationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ExeciceTicketEmailnotificationApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ExeciceTicketEmailnotificationApplication.class, args);
+    }
 
 }
