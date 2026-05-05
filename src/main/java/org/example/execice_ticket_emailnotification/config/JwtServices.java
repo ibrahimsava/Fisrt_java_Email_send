@@ -1,4 +1,4 @@
-package org.example.execice_ticket_emailnotification.Services;
+package org.example.execice_ticket_emailnotification.config;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;
